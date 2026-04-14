@@ -6,4 +6,3 @@
 3. cd frontend && npm install && npm run dev  (port 5173)
 4. Login: admin@ctms.com / Admin@123
 
-See full docs in the zip package.
